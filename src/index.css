@@ -72,3 +72,15 @@ img {
   width: 100%;
   object-fit: cover;
 }
+
+@media (max-width: 1000px) {
+  .container {
+    width: 86%;
+  }
+}
+
+@media (max-width: 600px) {
+  .container {
+    width: 90%;
+  }
+}

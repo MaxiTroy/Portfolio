@@ -52,3 +52,20 @@ header {
   bottom: 5rem;
   transform: rotate(90deg);
 }
+
+@media (max-width: 1000px) {
+  header {
+    height: 70vh;
+  }
+}
+
+@media (max-width: 600px) {
+  header {
+    height: 100vh;
+  }
+
+  .social_media,
+  .scroll_down {
+    display: none;
+  }
+}
