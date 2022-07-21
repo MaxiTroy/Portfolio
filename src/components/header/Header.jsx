@@ -1,6 +1,6 @@
 import React from "react";
 import "./header.css";
-import Me from "../../assets/maxi.png";
+import Portada1 from "../../assets/Portada1.png";
 import { BsGithub, BsFacebook, BsLinkedin } from "react-icons/bs";
 
 const Header = () => {
@@ -28,8 +28,8 @@ const Header = () => {
           </a>
         </div>
 
-        <div className="my_image">
-          <img src={Me} alt="FrontEnd Developer Troychuk Maximiliano" />
+        <div className="portada_image">
+          <img src={Portada1} alt="FrontEnd Developer" />
         </div>
 
         <a className="scroll_down">Scroll Down</a>

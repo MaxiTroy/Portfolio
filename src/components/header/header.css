@@ -34,16 +34,20 @@ header {
   background: var(--color-primary);
 }
 
-.my_image {
+.portada_image {
   background: linear-gradient(var(--color-primary), transparent);
   width: 22rem;
   height: 30rem;
   position: absolute;
   left: calc(50% - 11rem);
-  margin-top: 4rem;
+  margin-top: 3rem;
   border-radius: 12rem 12rem 0 0;
   overflow: hidden;
   padding: 0 1rem 1rem 1rem;
+}
+
+.portada_image img {
+  margin-top: 1.5rem;
 }
 
 .scroll_down {

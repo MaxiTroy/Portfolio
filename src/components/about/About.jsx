@@ -31,10 +31,11 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi,
-            quasi eveniet quaerat cum ratione quos dolorem officiis qui est
-            libero excepturi reiciendis iusto veniam provident dignissimos
-            aperiam cupiditate quisquam commodi!
+            I am a developer with 1 year of experience building web apps using
+            React and mobile apps using React native, focused on writing code
+            and solving tasks efficiently. I have been working on several
+            projects. I am always willing to learn new technologies and get new
+            challenges.
           </p>
 
           <a href="#contact" className="btn btn-primary">

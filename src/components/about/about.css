@@ -23,6 +23,8 @@
   overflow: hidden;
   transform: rotate(10deg);
   transition: var(--transition);
+  height: 450px;
+  margin-top: -6rem;
 }
 
 .about__img:hover {
@@ -32,6 +34,11 @@
 .about__content {
   margin: 2rem 0 2.5rem;
   color: lightgray;
+}
+
+.about__content p {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .about__cards {

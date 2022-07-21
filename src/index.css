@@ -11,10 +11,14 @@
 }
 
 :root {
-  --color-bg: #264653;
+  /* --color-bg: #264653;
   --color-bg-variant: #366476;
   --color-primary: #2a9d8f;
-  --color-primary-variant: #1a6158;
+  --color-primary-variant: #1a6158; */
+  --color-bg: #0d1b2a;
+  --color-bg-variant: #162c44;
+  --color-primary: #4c918b;
+  --color-primary-variant: #5dc1b9;
 
   --transition: all 500ms ease;
 }
@@ -74,7 +78,7 @@ img {
 }
 
 section {
-  margin-top: 3rem;
+  padding-top: 5rem;
 }
 
 section > h2,
